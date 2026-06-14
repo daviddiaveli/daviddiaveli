@@ -1,4 +1,4 @@
-# 👋 David Pěkník
+# 👋🏻 David Pěkník
 
 ### Founder of AstroHub.cz | Applied Informatics Specialist | Space Technology Enthusiast
 
