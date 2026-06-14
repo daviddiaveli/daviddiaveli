@@ -134,9 +134,9 @@ Applied Informatics with a strong interest in:
 
 🌐 Website: https://astrohub.cz
 
-💼 LinkedIn: [add link]
+💼 LinkedIn: https://www.linkedin.com/in/davidpeknik/
 
-📧 Contact: [add email]
+📧 Contact: david.peknik@seznam.cz
 
 ---
 
