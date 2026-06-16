@@ -48,18 +48,6 @@ Current focus areas:
 
 ---
 
-## 🎓 Education & Interests
-
-Applied Informatics with a strong interest in:
-
-- Astroinformatics
-- Space Systems Engineering
-- Artificial Intelligence
-- Scientific Research
-- Data Science
-
----
-
 ## 📫 Connect
 
 💼 LinkedIn: https://www.linkedin.com/in/davidpeknik/
