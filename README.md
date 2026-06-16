@@ -61,8 +61,8 @@ Applied Informatics with a strong interest in:
 
 ## 📫 Connect
 
-🌐 Website: https://astrohub.cz
 💼 LinkedIn: https://www.linkedin.com/in/davidpeknik/
+
 📧 Contact: info@astrohub.cz
 
 > "Exploring the Universe through Data, Software, and Innovation."
