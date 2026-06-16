@@ -1,4 +1,4 @@
-# 👋🏻 hello there! I am David..
+# 👋🏻 Hello there! I am David..
 
 ### Air Traffic Control Specialist | Applied Informatics Student | Space Technology Enthusiast
 
@@ -6,7 +6,7 @@ Building software and digital platforms at the intersection of astronomy, aerosp
 
 ---
 
-## 🚀 About
+## 🚀 About me
 
 Passionate about transforming complex scientific and technological concepts into practical tools, educational platforms, and innovative digital products.
 
@@ -45,13 +45,6 @@ Current focus areas:
 - React
 - Next.js
 
-### Tools
-
-- Git
-- GitHub
-- Linux
-- Docker
-
 ---
 
 ## 🎓 Education & Interests
@@ -69,11 +62,7 @@ Applied Informatics with a strong interest in:
 ## 📫 Connect
 
 🌐 Website: https://astrohub.cz
-
 💼 LinkedIn: https://www.linkedin.com/in/davidpeknik/
-
-📧 Contact: david.peknik@seznam.cz
-
----
+📧 Contact: info@astrohub.cz
 
 > "Exploring the Universe through Data, Software, and Innovation."
