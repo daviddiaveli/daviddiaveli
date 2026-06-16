@@ -1,3 +1,4 @@
+
 # [![Typing SVG](https://readme-typing-svg.demolab.com?font=Oswald&size=38&pause=1000&color=F7F7F7&width=435&lines=%F0%9F%91%8B%F0%9F%8F%BB+Hello+there!+I+am+David..)](https://git.io/typing-svg)
 
 ### Air Traffic Control Specialist | Applied Informatics Student | Space Technology Enthusiast
