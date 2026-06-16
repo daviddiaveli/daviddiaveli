@@ -1,6 +1,6 @@
-# 👋🏻 David Pěkník
+# 👋🏻 hello there! I am David..
 
-### Founder of AstroHub.cz | Applied Informatics Specialist | Space Technology Enthusiast
+### Air Traffic Control Specialist | Applied Informatics Student | Space Technology Enthusiast
 
 Building software and digital platforms at the intersection of astronomy, aerospace, artificial intelligence, and data science.
 
@@ -19,60 +19,6 @@ Current focus areas:
 - 💻 Software Development
 - ✈️ Air Navigation Systems
 - 🌍 Scientific Communication
-
----
-
-## 🌟 Main Projects
-
-### 🌠 AstroHub.cz
-The largest Czech space-focused online platform.
-
-Features:
-- Professional astronomy articles
-- Community forum
-- AstroWiki encyclopedia
-- Educational resources
-- Space-related e-commerce
-
----
-
-### 🪐 ExoAIP
-
-Aeronautical Information Publication for Exoplanets.
-
-A unique project combining:
-
-- Astronomy
-- Planetary science
-- Aerospace standards
-- Data visualization
-- AI-powered analysis
-
----
-
-### 🌙 LunarATC
-
-Air Traffic Control concepts for future lunar operations.
-
-Focus:
-
-- Lunar navigation
-- Space traffic management
-- Mission planning
-- Future Moon infrastructure
-
----
-
-### 🔭 DeepSkyPlanner
-
-Observation planning software for amateur and professional astronomers.
-
-Capabilities:
-
-- Observation scheduling
-- Object databases
-- Sky condition analysis
-- Observation logging
 
 ---
 
@@ -117,16 +63,6 @@ Applied Informatics with a strong interest in:
 - Artificial Intelligence
 - Scientific Research
 - Data Science
-
----
-
-## 📈 Current Goals
-
-- Expand AstroHub.cz into the leading Czech space ecosystem
-- Develop innovative astronomy software
-- Connect AI with astronomy and aerospace applications
-- Contribute to open-source scientific projects
-- Publish educational content about space exploration
 
 ---
 
